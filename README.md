@@ -17,6 +17,7 @@ This dashboard continuously scans online activity, flags trending topics, and pr
 - **Prioritization**: Ranks stories by momentum and relevance for prediction markets.  
 
 ## 📂 Structure  
+https://github.com/vipindra/Trend-Monitoring-Dashboard
 
 
 
